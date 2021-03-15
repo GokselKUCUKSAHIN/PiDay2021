@@ -1,2 +1,2 @@
 # PiDay2021
-Estimating Nubmer PI using biggest common divisor and Random numbers.
+Estimating Number PI using biggest common divisor and Random numbers.
